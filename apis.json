@@ -1,0 +1,54 @@
+{
+    "name": "Cypress.io",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out of front-end testing.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28233-www-cypress-io.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cypress-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cypress.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28233-www-cypress-io.jpg",
+            "humanURL": "https:\/\/www.cypress.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cypress-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cypress-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cypress-io"
+        },
+        {
+            "type": "Email",
+            "url": "support@cypress.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Cypress_io"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.cypress.io"
+        }
+    ]
+}
